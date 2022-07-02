@@ -6,5 +6,6 @@
         <page name='MinimalNumberTask'/>
         <page name='BracketsTask'/>
         <page name='StearsTask'/>
+        <page name='Task6'/>
     </pages>
 </playground>
